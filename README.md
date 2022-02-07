@@ -1,0 +1,1 @@
+# Applying-Naive-Bayes-Classification-on-Donors-Chosse-Dataset
